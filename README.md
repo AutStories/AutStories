@@ -3,9 +3,7 @@
 <br><br>
 ## I'm currently have knowledge in:
 ### CMS
-- ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
-#### Wordpress Plugins
-- ![Elementor](https://img.shields.io/badge/Elementor-92003B.svg?style=for-the-badge&logo=Elementor&logoColor=white) ![Woocommerce](https://img.shields.io/badge/WooCommerce-96588A.svg?style=for-the-badge&logo=WooCommerce&logoColor=white)
+- ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Elementor](https://img.shields.io/badge/Elementor-92003B.svg?style=for-the-badge&logo=Elementor&logoColor=white) ![Woocommerce](https://img.shields.io/badge/WooCommerce-96588A.svg?style=for-the-badge&logo=WooCommerce&logoColor=white)
 ### Operating Systems
 - ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
 - ![Cent OS](https://img.shields.io/badge/cent%20os-002260?style=for-the-badge&logo=centos&logoColor=F0F0F0) ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
