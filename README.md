@@ -1,9 +1,9 @@
 # Hi there 👋
 ## My name is Simon Anastácio de Souza, I'm 22 years old and I'm a technology enthusiast, I really love this.
-<br>
-##  I'm currently have knowledge in:
+<br><br>
+## I'm currently have knowledge in:
 ### CMS
-![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
+- ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 #### Wordpress Plugins
 - ![Elementor](https://img.shields.io/badge/Elementor-92003B.svg?style=for-the-badge&logo=Elementor&logoColor=white) ![Woocommerce](https://img.shields.io/badge/WooCommerce-96588A.svg?style=for-the-badge&logo=WooCommerce&logoColor=white)
 ### Operating Systems
