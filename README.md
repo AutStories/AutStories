@@ -1,5 +1,5 @@
 # Hi there 👋
-## My name is Simon Anastácio de Souza, I'm 22 years old and I'm a technology enthusiast, I really love this.
+## My name is Simon Anastácio de Souza, I'm 23 years old and I'm a technology enthusiast, I really love this.
 <br><br>
 ## I'm currently have knowledge in:
 ### CMS
